@@ -1,0 +1,38 @@
+html,body{
+    background: linear-gradient(45deg, #ff0000, #0000ff);
+}
+body{
+    margin:0;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+    align-items:center;
+    
+}
+.header h1{
+    margin-top: 30px;
+}
+.header{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 20px;
+    font-size: 40px;
+    color: rgb(240, 221, 221);
+}
+.bg_text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+.curr_bg{
+    font-size: 22px;
+}
+.current_background{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+    
+    
